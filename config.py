@@ -1,5 +1,5 @@
-TOKEN = '1901744821:AAG8rkQpGMVOmvzLr7hFMtZkQVpIkVa7BgA'
-API_KEY = 'e4600cdb61a0eba278c1ed5a7269303b'
+TOKEN = ''
+API_KEY = ''
 
 keys = {
     'евро' : 'EUR',
